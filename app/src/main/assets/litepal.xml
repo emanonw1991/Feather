@@ -1,0 +1,12 @@
+<litepal>
+
+    <dbname value="feather"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.vivo.emanon.feather.db.Province"/>
+        <mapping class="com.vivo.emanon.feather.db.City"/>
+        <mapping class="com.vivo.emanon.feather.db.County"/>
+    </list>
+</litepal>
